@@ -111,7 +111,7 @@ printf("Cadastro de cartas\n\n");
     printf("\n"); // Espaço 2
 
      /* a partir daqui ficam os dados para impressão de cada carta
-    semre usar o comando printf("variavel\n", formato) para adicionar mais campos */
+    semre usar o comando printf("variavel\n", formato) para adicionar mais camps */
    
     printf("Carta 02\n\n");
     
