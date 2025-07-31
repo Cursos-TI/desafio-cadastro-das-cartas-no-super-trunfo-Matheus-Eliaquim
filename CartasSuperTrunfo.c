@@ -56,8 +56,8 @@ printf("Cadastro de cartas\n\n");
     scanf("%d", &pturisticos);
     
     //duas linhas espeço
-   printf("\n"); // Espaço 1
-   printf("\n"); // Espaço 2
+    printf("\n"); // Espaço 1
+    printf("\n"); // Espaço 2
 
     /* a partir daqui ficam os dados para impressão de cada carta
     semre usar o comando printf("variavel\n", formato) para adicionar mais campos */
@@ -85,7 +85,7 @@ printf("Cadastro de cartas\n\n");
 
     printf("Cadastro de cartas\n\n");
 
-     printf("Digite uma letra de A a Z para representar o Estado: ");
+    printf("Digite uma letra de A a Z para representar o Estado: ");
     scanf(" %c", &estado);
 
     printf("Digite o codigo alfanumerico da carta (EX: A00): ");
@@ -107,8 +107,8 @@ printf("Cadastro de cartas\n\n");
     scanf("%d", &pturisticos);
     
     //duas linhas espeço
-   printf("\n"); // Espaço 1
-   printf("\n"); // Espaço 2
+    printf("\n"); // Espaço 1
+    printf("\n"); // Espaço 2
 
      /* a partir daqui ficam os dados para impressão de cada carta
     semre usar o comando printf("variavel\n", formato) para adicionar mais campos */
@@ -133,6 +133,4 @@ printf("Cadastro de cartas\n\n");
 
     return 0;
 
-
-    return 0;
 }
