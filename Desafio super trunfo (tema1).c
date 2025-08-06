@@ -63,7 +63,7 @@ printf("Cadastro de cartas\n\n");
     if (pib01 > 0) {
         pib01 = pib01 * 1000000000;
     } else {
-        pib01 = 1;
+        pib01 = 0;
     }
     
     printf("Digite a quantidade de pontos turisticos da cidade: ");
@@ -161,7 +161,7 @@ printf("Cadastro de cartas\n\n");
     if (pib02 > 0) {
         pib02 = pib02 * 1000000000;
     } else {
-        pib02 = 1;
+        pib02 = 0;
 
     }
         
